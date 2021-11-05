@@ -1,0 +1,17 @@
+.poke-card {
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+
+li {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}

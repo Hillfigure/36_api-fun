@@ -1,0 +1,25 @@
+.poke-card {
+  display: block;
+  height: 200px;
+  width: 200px;
+}
+
+li {
+  list-style: none;
+  text-transform: uppercase;
+}
+
+ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */
